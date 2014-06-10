@@ -1,0 +1,1 @@
+/home/dkourilova/django/keynet/keynet/settings.py
